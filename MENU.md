@@ -21,7 +21,7 @@ $30/3.5g | $50/7g | $85/14g | $165/28g
 <b> CO2 Budder </b> | $40/g 
 <p><b> Death Bubba Shatter </b> | $35/g </p>
 <p><b> God Bud HCFSE </b> | $55/g </p>
-<p><b> Organically Flavoured Vape Cartridge </b> Strains: Bubblegum & Key Lime | $30/0.5g </p>
+<p><b> Organically Flavoured Vape Cartridge </b> | Strains: Bubblegum & Key Lime | $30/0.5g </p>
 <p><b> Unflavoured Vape Cartridge </b> | $25/0.5g </p>
 
 --------------------------------------------------------------------- 
