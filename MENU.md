@@ -12,24 +12,24 @@
 <br><br> White Wedding 
 <br>$30/3.5g | $50/7g | $85/14g | $165/28g  
 
-<br><p></p>
+<br>
 <b>Extracts:</b>
 <p>CO2 Budder | $40/g</p>
 <p>Death Bubba Shatter | $35/g</p>
 <p>God Bud HCFSE | $55/g</p>
 
-<br><p></p>
+<br>
 <b>Edibles:</b>
 <p> ShareBears 150-200mg THC/pkg | $10</p>
   
-<br><p></p>
+<br>
 <b>Topicals:</b>
 <br>Coconut-infused THC Joint Cream
 <br>$30 100mgTHC:15mL | $50 300mgTHC:50mL
 
-<br><p></p>
+<br>
 <b>Seeds also available.</b>
 
-<br><p></p>
+<br>
 Canada-wide shipping fees:
 $20.00 Expedited | $25.00 Express
