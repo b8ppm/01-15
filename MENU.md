@@ -1,15 +1,19 @@
 # Menu
 
+*Please email  b8_admin@protonmail.com with your order, specific item and quantity.
+*Our team will get back to you ASAP with the final total and payment information.
+*CP Delivery
+
 ## Flower:
-### Black Mamba 
+### Black Mamba (I-AAAA)
 $30/3.5g | $55/7g | $90/14g | $150/28g
-### Ice Cream Cake (Wedding Cake x Gelato) 
+### Ice Cream Cake (Wedding Cake x Gelato) (H-AAAA)
 $30/3.5g | $55/7g | $95/14g | $175/28g
-### Gelato #33 
+### Gelato #33 (I-AAAA)
 $30/3.5g | $55/7g | $95/14g | $175/28g
-### Platinum Gorilla 
+### Platinum Gorilla (I-AAAA)
 $30/3.5g | $50/7g | $85/14g | $165/28g
-### White Wedding 
+### White Wedding (H-AAAA)
 $30/3.5g | $50/7g | $85/14g | $165/28g
 
 --------------------------------------------------------------------- 
