@@ -10,7 +10,20 @@
 - <b> Platinum Gorilla (I-AAAA) </b>  $30/3.5g | $50/7g | $85/14g | $165/28g
 - <b> White Wedding (H-AAAA) </b>  $30/3.5g | $50/7g | $85/14g | $165/28g
 
-### KREAM
+### KREAM Canada:
+- <b> Gelato #6 (I-AAAA) </b> $70/7g
+- <b> Pink Sherbert (S-AAAA) </b> $70/7g
+- <b> Lemon Sherbert (H-AAAA) </b> 
+- <b> Pug Breath (I-AAAA) </b>
+- <b> Ron Jeremy Pink (I-AAAA) </b> 
+- <b> Wedding Crashers (I-AAAA) </b>
+
+### KREAM Collective:
+- <b> Purple Alien (I-AAAA) </b>
+
+### Private ACMPR Grow:
+- <b> Dutch Dream </b>
+- <b> White Widow </b>
 
 ### Pacific Cannabis:
 - <b> Black Mamba (I-AAAA) </b>  $30/3.5g | $55/7g | $90/14g | $150/28g
