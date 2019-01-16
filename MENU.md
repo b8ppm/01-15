@@ -25,8 +25,9 @@
 <br>
 <b>Topicals:</b>
 <p>Coconut-infused THC Joint Cream
-<br> 15ml:100mg $30 | 50ml:300mg $50 
+<br> 100mgTHC:15mL $30 | 300mgTHC:50mL $50 
 
+<br>
 <br>
 <b>Seeds also available.</b>
 
