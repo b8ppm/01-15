@@ -19,6 +19,15 @@
 <p>God Bud HCFSE | $55/g</p>
 
 <br>
+<b>Edibles:</b>
+<p> ShareBears 150-200mg THC/pkg | $10
+  
+<br>
+<b>Topicals:</b>
+<br>Coconut-infused THC Joint Cream
+<br> 15ml:100mg $30 | 50ml:300mg $50 
+
+<br>
 <b>Seeds also available.</b>
 
 <br>
