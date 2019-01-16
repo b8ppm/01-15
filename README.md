@@ -1,4 +1,4 @@
-# Canada-wide B8 Menu
+# B8 Menu
 
 <b>Flower:</b>
 
@@ -23,3 +23,8 @@ London Donovan
 
 
 <b>Seeds also available.</b>
+
+
+Canada-wide Shipping fees:
+- $20.00 Expedited
+- $25.00 Express
