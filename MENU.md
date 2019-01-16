@@ -1,7 +1,7 @@
 # B8 Menu
 
 <b>Flower:</b>
-<br><br> Black Mamba 
+<br>Black Mamba 
 <br>$30/3.5g | $55/7g | $90/14g | $150/28g
 <br><br> Ice Cream Cake (Wedding Cake x Gelato) 
 <br>$30/3.5g | $55/7g | $95/14g | $175/28g
