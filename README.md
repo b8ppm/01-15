@@ -10,15 +10,15 @@ Elite Organics
 
 Pacific Cannabis
 - Black Mamba
-  - Induca Dominant Hybrid
+  - Indica Dominant Hybrid
 - Purple Kush 
   - Indica
 
 <b>Extracts:</b>
 
 Kingsmen Crew
-- CO2 Budder
-- Death Bubba Shatter
+- CO2 Budder $40/g
+- Death Bubba Shatter $35/g
 
 London Donovan
 - God Bud HCFSE
@@ -27,6 +27,6 @@ London Donovan
 <b>Seeds also available.</b>
 
 
-Canada-wide Shipping fees:
+Canada-wide shipping fees:
 - $20.00 Expedited
 - $25.00 Express
