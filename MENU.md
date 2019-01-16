@@ -14,9 +14,9 @@
 
 <br>
 <b>Extracts:</b>
-<br><br>CO2 Budder | $40/g
-<br><br>Death Bubba Shatter | $35/g
-<br<br>>God Bud HCFSE | $55/g
+<p>CO2 Budder | $40/g</p>
+<p>Death Bubba Shatter | $35/g</p>
+<p>God Bud HCFSE | $55/g</p>
 
 <br>
 <b>Seeds also available.</b>
