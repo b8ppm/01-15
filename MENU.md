@@ -15,20 +15,20 @@ $30/3.5g | $50/7g | $85/14g | $165/28g
 --------------------------------------------------------------------- 
 
 ## Extracts:
-<b> CO2 Budder </b> | $40/g |
-<p><b> Death Bubba Shatter </b> | $35/g |</p>
-<p><b> God Bud HCFSE </b> | $55/g |</p>
+<b> CO2 Budder </b> | $40/g 
+<p><b> Death Bubba Shatter </b> | $35/g </p>
+<p><b> God Bud HCFSE </b> | $55/g </p>
 
 --------------------------------------------------------------------- 
 
 ## Edibles:
-<b> ShareBears </b> | $10/150-200mg |
+<b> ShareBears </b> | $10/150-200mg 
   
 --------------------------------------------------------------------- 
 
 ## Topicals:
-### Coconut-infused THC Joint Cream
-| $30/100mgTHC:15mL | $50/300mgTHC:50mL |
+### THC Joint Cream
+$30/15mL (100mgTHC) | $50/50mL (300mgTHC)
 
 --------------------------------------------------------------------- 
 
