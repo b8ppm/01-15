@@ -21,13 +21,16 @@ $30/3.5g | $50/7g | $85/14g | $165/28g
 <b> CO2 Budder </b> | $40/g 
 <p><b> Death Bubba Shatter </b> | $35/g </p>
 <p><b> God Bud HCFSE </b> | $55/g </p>
-<p><b> Organically Flavoured Vape Cartridge </b> | Strains: Bubblegum & Key Lime | $30/0.5g </p>
+<p><b> Organically Flavoured Vape Cartridge </b> | Strains: Bubblegum; Key Lime; Orange Cream | $30/0.5g </p>
 <p><b> Unflavoured Vape Cartridge </b> | $25/0.5g </p>
 
 --------------------------------------------------------------------- 
 
 ## Edibles:
-<b> ShareBears </b> | $10/150-200mg 
+<b> CBD Capsule </b> | $5/100mg
+<p><b> ShareBears </b> | $10/150-200mg </p>
+<p><b> THC Capsule </b> | $15/200mg </p> 
+
   
 --------------------------------------------------------------------- 
 
