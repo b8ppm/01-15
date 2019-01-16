@@ -1,4 +1,4 @@
-# B8 Menu - Canada-wide
+# Canada-wide B8 Menu
 
 <b>Flower:</b>
 
