@@ -23,5 +23,5 @@
 
 <br></br>
 Canada-wide shipping fees:
-- $20.00 Expedited
-- $25.00 Express
+<br>- $20.00 Expedited
+<br>- $25.00 Express
