@@ -1,16 +1,16 @@
 # Menu
 
 ## Flower:
-<br>Black Mamba 
-<br>$30/3.5g | $55/7g | $90/14g | $150/28g
+### Black Mamba 
+$30/3.5g | $55/7g | $90/14g | $150/28g
 ### Ice Cream Cake (Wedding Cake x Gelato) 
-<br>$30/3.5g | $55/7g | $95/14g | $175/28g
+$30/3.5g | $55/7g | $95/14g | $175/28g
 ### Gelato #33 
-<br>$30/3.5g | $55/7g | $95/14g | $175/28g
+$30/3.5g | $55/7g | $95/14g | $175/28g
 ### Platinum Gorilla 
-<br>$30/3.5g | $50/7g | $85/14g | $165/28g
+$30/3.5g | $50/7g | $85/14g | $165/28g
 ### White Wedding 
-<br>$30/3.5g | $50/7g | $85/14g | $165/28g  
+$30/3.5g | $50/7g | $85/14g | $165/28g  
 
 <br>
 ## Extracts:
