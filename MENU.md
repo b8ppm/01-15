@@ -5,19 +5,19 @@
 
 ## Flower
 ### Elite Organics:
-- Ice Cream Cake (H-AAAA)
+- <b> Ice Cream Cake (H-AAAA) </b>
   - $30/3.5g | $55/7g | $95/14g | $175/28g
-- Gelato #33 (I-AAAA)
+- <b> Gelato #33 (I-AAAA)  </b>
   - $30/3.5g | $55/7g | $95/14g | $175/28g
-- Platinum Gorilla (I-AAAA)
+- <b> Platinum Gorilla (I-AAAA)  </b>
   - $30/3.5g | $50/7g | $85/14g | $165/28g
-- White Wedding (H-AAAA)
+- <b> White Wedding (H-AAAA)  </b>
   - $30/3.5g | $50/7g | $85/14g | $165/28g
 
 ### KREAM
 
 ### Pacific Cannabis:
-- Black Mamba (I-AAAA)
+- <b> Black Mamba (I-AAAA)  </b>
   - $30/3.5g | $55/7g | $90/14g | $150/28g
 
 --------------------------------------------------------------------- 
