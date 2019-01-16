@@ -1,6 +1,6 @@
 # Menu
 
-<b>Flower:</b>
+## Flower:
 <br>Black Mamba 
 <br>$30/3.5g | $55/7g | $90/14g | $150/28g
 <br><br> Ice Cream Cake (Wedding Cake x Gelato) 
@@ -13,17 +13,17 @@
 <br>$30/3.5g | $50/7g | $85/14g | $165/28g  
 
 <br>
-<b>Extracts:</b>
+## Extracts:
 <p>CO2 Budder | $40/g</p>
 <p>Death Bubba Shatter | $35/g</p>
 <p>God Bud HCFSE | $55/g</p>
 
 <br>
-<b>Edibles:</b>
+## Edibles:
 <p> ShareBears 150-200mg THC/pkg | $10</p>
   
 <br>
-<b>Topicals:</b>
+## Topicals:
 <br>Coconut-infused THC Joint Cream
 <br>$30 100mgTHC:15mL | $50 300mgTHC:50mL
 
