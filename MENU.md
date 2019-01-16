@@ -1,7 +1,7 @@
 # Menu
 
-*Please email "b8_admin@protonmail.com" with your order, specific item and quantity.
-<br>*CP Delivery.
+- Please email "b8_admin@protonmail.com" with your order, specific item and quantity.
+- CP Delivery.
 
 ## Flower:
 ### Black Mamba (I-AAAA)
