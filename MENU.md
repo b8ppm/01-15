@@ -3,9 +3,8 @@
 - Please email "b8_admin@protonmail.com" with your order, specific item and quantity.
 - CP Delivery. 19+
 
-## Flower:
-### Black Mamba (I-AAAA)
-$30/3.5g | $55/7g | $90/14g | $150/28g
+## Flower
+#### Elite Organics:
 ### Ice Cream Cake (H-AAAA)
 $30/3.5g | $55/7g | $95/14g | $175/28g
 ### Gelato #33 (I-AAAA)
@@ -15,9 +14,15 @@ $30/3.5g | $50/7g | $85/14g | $165/28g
 ### White Wedding (H-AAAA)
 $30/3.5g | $50/7g | $85/14g | $165/28g
 
+#### KREAM
+
+#### Pacific Cannabis:
+### Black Mamba (I-AAAA)
+$30/3.5g | $55/7g | $90/14g | $150/28g
+
 --------------------------------------------------------------------- 
 
-## Extracts:
+## Extracts
 <b> CBD Capsule </b> | $5/100mg
 <p><b> CO2 Budder </b> | $40/g </p>
 <p><b> Death Bubba Shatter </b> | $35/g </p>
@@ -28,12 +33,12 @@ $30/3.5g | $50/7g | $85/14g | $165/28g
 
 --------------------------------------------------------------------- 
 
-## Edibles:
+## Edibles
 <b> ShareBears </b> | $10/150-200mg
   
 --------------------------------------------------------------------- 
 
-## Topicals:
+## Topicals
 ### THC Joint Cream
 $30/15mL (100mg THC) | $50/50mL (300mg THC)
 
