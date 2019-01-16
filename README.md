@@ -20,7 +20,6 @@
 
 <br>
 <b>Seeds also available.</b>
-
 <br></br>
 Canada-wide shipping fees:
 <br>- $20.00 Expedited
