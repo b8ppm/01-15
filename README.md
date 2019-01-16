@@ -1,4 +1,4 @@
-# 015 Menu Upd8s
+# B8 Menu
 
 <b>Flower:</b>
 
@@ -22,4 +22,4 @@ London Donovan
 - God Bud HCFSE
 
 
-<b>Seeds available.</b>
+<b>Seeds also available.</b>
