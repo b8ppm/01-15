@@ -10,7 +10,9 @@ Elite Organics
 
 Pacific Cannabis
 - Black Mamba
+  - Induca Dominant Hybrid
 - Purple Kush 
+  - Indica
 
 <b>Extracts:</b>
 
