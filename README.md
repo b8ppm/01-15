@@ -13,16 +13,13 @@
 <br>$30/3.5g | $50/7g | $85/14g | $165/28g
 
 <br></br>
-<br></br>
 <b>Extracts:</b>
 - CO2 Budder | $40/g
 - Death Bubba Shatter | $35/g
 - God Bud HCFSE | $55/g
 
-
 <br>
 <b>Seeds also available.</b>
-
 
 <br>
 Canada-wide shipping fees:
