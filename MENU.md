@@ -13,7 +13,7 @@
 ### KREAM Canada:
 - <b> Gelato #6 (I-AAAA) </b> $70/7g
 - <b> Pink Sherbert (S-AAAA) </b> $70/7g
-* <i> $250 for 4 jars. </i>
+<i> $250 for 4 jars. </i>
 - <b> Lemon Sherbert (H-AAAA) </b> 
 - <b> Pug Breath (I-AAAA) </b>
 - <b> Ron Jeremy Pink (I-AAAA) </b> 
