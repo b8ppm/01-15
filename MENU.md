@@ -15,14 +15,14 @@
 <br><b> Pink Sherbert (S-AAAA) </b> | $70/7g Jar
 <br><i> Buy 4 boxes for $250 </i>
 <br><b> Lemon Sherbert (H-AAAA) </b> | 
-<br><b> Pug Breath (I-AAAA) </b> |
-<br><b> Ron Jeremy Pink (I-AAAA) </b> |
+<br><b> Pug Breath (I-AAAA) </b> | $30/3.5g | $60/7g | $95/14g | $180/28g
+<br><b> Ron Jeremy Pink (I-AAAA) </b> 
 <br><b> Wedding Crashers (I-AAAA) </b> |
 
 ### KREAM Collective:
-<br><b> Pink Fuel (I-AAAA) </b> |
-<br><b> Purple Alien (I-AAAA) </b> |
-<br><b> Wedding Cake (I-AAAA) </b> |
+<br><b> Pink Fuel (I-AAAA) </b> | $30/3.5g | $55/7g | $85/14g | $165/28g
+<br><b> Purple Alien (I-AAAA) </b> | $30/3.5g | $55/7g | $85/14g | $165/28g
+<br><b> Wedding Cake (I-AAAA) </b> | | $30/3.5g | $60/7g | $95/14g | $185/28g
 
 ### East Coast Private ACMPR Grow:
 <br><b> Cookies & Cream (I-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
