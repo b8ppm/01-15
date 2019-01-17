@@ -26,16 +26,22 @@ ____________________________________________________________________________
 <br><b> Ron Jeremy Pink (I-AAAA) </b> | $35/3.5g | $65/7g | $115/14g | $210/28g
 <br><b> Wedding Crashers (I-AAAA) </b> | $35/3.5g | $70/7g | $125/14g | $215/28g
 
+<p>
+
 ### KREAM Collective:
 <p><b> Pink Fuel (I-AAAA) </b> | $30/3.5g | $55/7g | $85/14g | $165/28g
 <br><b> Purple Alien (I-AAAA) </b> | $30/3.5g | $55/7g | $85/14g | $165/28g
 <br><b> Wedding Cake (I-AAAA) </b> | $30/3.5g | $60/7g | $95/14g | $185/28g
+
+<p>
 
 ### East Coast Private ACMPR Grow:
 <p><b> Cookies & Cream (I-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
 <br><b> Dutch Chronic (S-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
 <br><b> Meat Breath (I-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
 <br><b> White Widow (I-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
+
+<p>
 
 ### West Coast Private ACMPR Grow:
 <p><b> Black Mamba (I-AAAA) </b>  | $30/3.5g | $55/7g | $90/14g | $150/28g
