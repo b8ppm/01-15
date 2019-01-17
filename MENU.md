@@ -5,25 +5,30 @@
 
 ## Flower
 ### Elite Organics:
-- <b> Ice Cream Cake (H-AAAA) </b>  | $30/3.5g | $55/7g | $95/14g | $175/28g
-- <b> Gelato #33 (I-AAAA) </b>  | $30/3.5g | $55/7g | $95/14g | $175/28g
-- <b> Platinum Gorilla (I-AAAA) </b>  | $30/3.5g | $50/7g | $85/14g | $165/28g
-- <b> White Wedding (H-AAAA) </b>  | $30/3.5g | $50/7g | $85/14g | $165/28g
+- <b> Ice Cream Cake (H-AAAA) </b>  | $30/3.5g | $60/7g | $95/14g | $180/28g
+- <b> Gelato #33 (I-AAAA) </b>  | $30/3.5g | $60/7g | $95/14g | $180/28g
+- <b> Platinum Gorilla (I-AAAA) </b>  | $30/3.5g | $55/7g | $85/14g | $165/28g
+- <b> White Wedding (H-AAAA) </b>  | $30/3.5g | $55/7g | $85/14g | $165/28g
 
 ### KREAM Canada:
 - <b> Gelato #6 (I-AAAA) </b> $70/7g
 - <b> Pink Sherbert (S-AAAA) </b> $70/7g
+- <i> $250 for 4 jars. </i>
 - <b> Lemon Sherbert (H-AAAA) </b> 
 - <b> Pug Breath (I-AAAA) </b>
 - <b> Ron Jeremy Pink (I-AAAA) </b> 
 - <b> Wedding Crashers (I-AAAA) </b>
 
 ### KREAM Collective:
+- <b> Pink Fuel (I-AAAA) </b>
 - <b> Purple Alien (I-AAAA) </b>
+- <b> Wedding Cake (I-AAAA) </b>
 
 ### Private ACMPR Grow:
-- <b> Dutch Dream </b>
-- <b> White Widow </b>
+- <b> Cookies & Cream </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
+- <b> Dutch Chronic </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
+- <b> Meat Breath </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
+- <b> White Widow </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
 
 ### Pacific Cannabis:
 - <b> Black Mamba (I-AAAA) </b>  | $30/3.5g | $55/7g | $90/14g | $150/28g
