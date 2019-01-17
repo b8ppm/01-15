@@ -38,9 +38,11 @@
 
 ## Extracts
 <b> CBD Capsule </b> | $5/100mg
-<p><b> CO2 Budder </b> | $40/g </p>
-<p><b> Death Bubba Shatter </b> | $35/g </p>
-<p><b> God Bud HCFSE </b> | $55/g </p>
+<p><b> Everest Extracts CO2 Shatter </b> Strains: Space Cookies | $40/g </p>
+<p><b> Kingsmen Crew Shatter </b> Strains: Death Bubba | $35/g </p>
+<p><b> Live CO2 Budder </b> Strains: Afghan Skunk; Grape Ape; Green Crack | $45/g </p>
+<p><b> London Donovan HCFSE </b> Strains: God Bud | $55/g </p>
+<p><b> London Donovan Live Resin </b> Strains: Black Dog | $65/g </p>
 <p><b> Organically Flavoured Vape Cartridge </b> | Strains: Bubblegum; Key Lime; Orange Cream | $30/0.5g </p>
 <p><b> THC Capsule </b> | $15/200mg </p> 
 <p><b> Unflavoured Vape Cartridge </b> | $25/0.5g </p>
