@@ -1,7 +1,8 @@
 # Menu
 
+- Minimum order $100.00 CAD
 - Please email "b8_admin@protonmail.com" with your order, specific items and quantity.
-- CP Delivery. 19+
+- CP Delivery. 19+ (If <b>new</b> member, placing <b>first</b> order, PLEASE ATTACH PHOTO IDENTIFICATION IN EMAIL
 
 ## Flower
 ### Elite Organics:
