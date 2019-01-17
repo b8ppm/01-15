@@ -35,8 +35,6 @@
 <br><b> DJ Chronic (H-AAA) </b> | $30/3.5g | $50/7g | $80/14g | $130/28g
 <br><b> Rockstar Pink (I-AAAA) </b> | $30/3.5g | $55/7g | $85/14g | $140/28g
 
---------------------------------------------------------------------- 
-
 ## Extracts
 <b> CBD Capsule </b> | $5/100mg
 <p><b> Everest Extracts CO2 Shatter </b> | Strains: Space Cookies | $40/g </p>
@@ -48,17 +46,13 @@
 <p><b> THC Capsule </b> | $15/200mg </p> 
 <p><b> Unflavoured Vape Cartridge </b> | $25/0.5g </p>
 
---------------------------------------------------------------------- 
-
 ## Edibles
 <b> AVRO ShareBears </b> | $10/150-200mg
   
---------------------------------------------------------------------- 
-
 ## Topicals
 <b> THC Joint Cream </b> | $30/15mL (100mg THC) | $50/50mL (300mg THC)
 
---------------------------------------------------------------------- 
+<br>
 
 <b>Seeds available.</b>
 
