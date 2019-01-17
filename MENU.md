@@ -11,9 +11,9 @@
 - <b> White Wedding (H-AAAA) </b>  | $30/3.5g | $55/7g | $85/14g | $165/28g
 
 ### KREAM Canada:
-- <b> Gelato #6 (I-AAAA) </b> $70/7g
-- <b> Pink Sherbert (S-AAAA) </b> $70/7g
-<br><i> $250 for 4 jars. </i>
+- <b> Gelato #6 (I-AAAA) </b> $70/7g Jar
+- <b> Pink Sherbert (S-AAAA) </b> $70/7g Jar
+<br><i> Buy 4 boxes for $250 </i>
 - <b> Lemon Sherbert (H-AAAA) </b> 
 - <b> Pug Breath (I-AAAA) </b>
 - <b> Ron Jeremy Pink (I-AAAA) </b> 
@@ -24,14 +24,15 @@
 - <b> Purple Alien (I-AAAA) </b>
 - <b> Wedding Cake (I-AAAA) </b>
 
-### Private ACMPR Grow:
-- <b> Cookies & Cream </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
-- <b> Dutch Chronic </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
-- <b> Meat Breath </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
-- <b> White Widow </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
-
-### Pacific Cannabis:
+### East Coast Private ACMPR Grow:
+- <b> Cookies & Cream (I-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
+- <b> Dutch Chronic (S-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
+- <b> Meat Breath (I-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
+- <b> White Widow (I-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
+  
+### West Coast Private ACMPR Grow:
 - <b> Black Mamba (I-AAAA) </b>  | $30/3.5g | $55/7g | $90/14g | $150/28g
+- <b> DJ Chronic (H-AAA) </b> | $30/3.5g | $50/7g | $80/14g | $130/28g
 
 --------------------------------------------------------------------- 
 
