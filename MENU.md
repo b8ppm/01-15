@@ -14,6 +14,7 @@
 <p><b> Gelato #6 (I-AAAA) </b> | $70/7g Jar
 <br><b> Pink Sherbert (S-AAAA) </b> | $70/7g Jar
 <br><i> Buy 4 boxes for $250 </i> 
+ 
 <br><b> Lemon Sherbert (H-AAAA) </b> | $35/3.5g | $70/7g | $125/14g | $215/28g
 <br><b> Pug Breath (I-AAAA) </b> | $35/3.5g | $65/7g | $115/14g | $210/28g
 <br><b> Ron Jeremy Pink (I-AAAA) </b> | $35/3.5g | $65/7g | $115/14g | $210/28g
@@ -60,8 +61,7 @@
 
 --------------------------------------------------------------------- 
 
-## <b>Seeds also available.</b>
-
+<b>Seeds available.</b>
 <br>
 Canada-wide shipping fees:
 $20.00 Expedited | $25.00 Express
