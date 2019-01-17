@@ -2,7 +2,7 @@
 
 - Minimum order $100.00 CAD
 - Please email "b8_admin@protonmail.com" with your order, specific items and quantity.
-  - <b>New Members & First Orders:</b> PLEASE ATTACH PHOTO IDENTIFICATION IN EMAIL
+  - <b>New Members:</b> Please forward photo identification with <b>first order.</b>
 - CP Delivery. 19+ 
 
 ## Flower
