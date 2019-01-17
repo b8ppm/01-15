@@ -6,6 +6,7 @@
 - CP Delivery. 19+ 
 
 ## Flower
+
 ### Elite Organics:
 <p><b> Ice Cream Cake (H-AAAA) </b>  | $30/3.5g | $60/7g | $95/14g | $180/28g 
 <br><b> Gelato #33 (I-AAAA) </b>  | $30/3.5g | $60/7g | $95/14g | $180/28g
@@ -31,11 +32,12 @@
 <br><b> Dutch Chronic (S-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
 <br><b> Meat Breath (I-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
 <br><b> White Widow (I-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
-  
+
 ### West Coast Private ACMPR Grow:
 <p><b> Black Mamba (I-AAAA) </b>  | $30/3.5g | $55/7g | $90/14g | $150/28g
 <br><b> DJ Chronic (H-AAA) </b> | $30/3.5g | $50/7g | $80/14g | $130/28g
 <br><b> Rockstar Pink (I-AAAA) </b> | $30/3.5g | $55/7g | $85/14g | $140/28g
+
 
 ## Extracts
 <b> CBD Capsule </b> | $5/100mg
@@ -48,8 +50,10 @@
 <p><b> THC Capsule </b> | $15/200mg </p> 
 <p><b> Unflavoured Vape Cartridge </b> | $25/0.5g </p>
 
+
 ## Edibles
 <b> AVRO ShareBears </b> | $10/150-200mg
+
   
 ## Topicals
 <b> THC Joint Cream </b> | $30/15mL (100mg THC) | $50/50mL (300mg THC)
