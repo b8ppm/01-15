@@ -15,6 +15,8 @@ ____________________________________________________________________________
 <br><b> Platinum Gorilla (I-AAAA) </b>  | $30/3.5g | $55/7g | $85/14g | $165/28g
 <br><b> White Wedding (H-AAAA) </b>  | $30/3.5g | $55/7g | $85/14g | $165/28g
 
+<p>
+
 ### KREAM Canada:
 <p><b> Gelato #6 (I-AAAA) </b> | $70/7g Jar
 <br><b> Pink Sherbert (S-AAAA) </b> | $70/7g Jar
