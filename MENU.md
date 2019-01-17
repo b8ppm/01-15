@@ -11,7 +11,7 @@
 <br><b> White Wedding (H-AAAA) </b>  | $30/3.5g | $55/7g | $85/14g | $165/28g
 
 ### KREAM Canada:
-<br><b> Gelato #6 (I-AAAA) </b> | $70/7g Jar
+<p><b> Gelato #6 (I-AAAA) </b> | $70/7g Jar
 <br><b> Pink Sherbert (S-AAAA) </b> | $70/7g Jar
 <br><i> Buy 4 boxes for $250 </i> 
 <br><b> Lemon Sherbert (H-AAAA) </b> | $35/3.5g | $70/7g | $125/14g | $215/28g
@@ -20,18 +20,18 @@
 <br><b> Wedding Crashers (I-AAAA) </b> | $35/3.5g | $70/7g | $125/14g | $215/28g
 
 ### KREAM Collective:
-<br><b> Pink Fuel (I-AAAA) </b> | $30/3.5g | $55/7g | $85/14g | $165/28g
+<p><b> Pink Fuel (I-AAAA) </b> | $30/3.5g | $55/7g | $85/14g | $165/28g
 <br><b> Purple Alien (I-AAAA) </b> | $30/3.5g | $55/7g | $85/14g | $165/28g
 <br><b> Wedding Cake (I-AAAA) </b> | $30/3.5g | $60/7g | $95/14g | $185/28g
 
 ### East Coast Private ACMPR Grow:
-<br><b> Cookies & Cream (I-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
+<p><b> Cookies & Cream (I-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
 <br><b> Dutch Chronic (S-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
 <br><b> Meat Breath (I-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
 <br><b> White Widow (I-AAA) </b> | $25/3.5g | $45/7g | $75/14g | $125/28g
   
 ### West Coast Private ACMPR Grow:
-<br><b> Black Mamba (I-AAAA) </b>  | $30/3.5g | $55/7g | $90/14g | $150/28g
+<p><b> Black Mamba (I-AAAA) </b>  | $30/3.5g | $55/7g | $90/14g | $150/28g
 <br><b> DJ Chronic (H-AAA) </b> | $30/3.5g | $50/7g | $80/14g | $130/28g
 <br><b> Rockstar Pink (I-AAAA) </b> | $30/3.5g | $55/7g | $85/14g | $140/28g
 
@@ -60,7 +60,7 @@
 
 --------------------------------------------------------------------- 
 
-<b>Seeds also available.</b>
+## <b>Seeds also available.</b>
 
 <br>
 Canada-wide shipping fees:
