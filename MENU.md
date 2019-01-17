@@ -1,6 +1,6 @@
 # Menu
 
-- Please email "b8_admin@protonmail.com" with your order, specific item and quantity.
+- Please email "b8_admin@protonmail.com" with your order, specific items and quantity.
 - CP Delivery. 19+
 
 ## Flower
