@@ -5,7 +5,7 @@
 
 ## Flower
 ### Elite Organics:
-<br><b> Ice Cream Cake (H-AAAA) </b>  | $30/3.5g | $60/7g | $95/14g | $180/28g
+<br><b> Ice Cream Cake (H-AAAA) </b>  | $30/3.5g | $60/7g | $95/14g | $180/28g </br>
 <br><b> Gelato #33 (I-AAAA) </b>  | $30/3.5g | $60/7g | $95/14g | $180/28g
 <br><b> Platinum Gorilla (I-AAAA) </b>  | $30/3.5g | $55/7g | $85/14g | $165/28g
 <br><b> White Wedding (H-AAAA) </b>  | $30/3.5g | $55/7g | $85/14g | $165/28g
